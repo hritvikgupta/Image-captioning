@@ -9,7 +9,7 @@ Dataset which is used comprises of different scences and all natural images. The
 
 ### Model-Workflow:- 
 
-1. First Works with Natural language Processing on Captions:-
+#### 1. First Works with Natural language Processing on Captions:-
    *      1.    Text Preprocessing
              * a.    Text cleaning
              * b.    Removing Punctuation ('!"#$%&'()*+)
@@ -17,14 +17,14 @@ Dataset which is used comprises of different scences and all natural images. The
              * d.    Lemmatize the words
              * e.    Tokenize the words of each captions
              * f.    pad the seqences and create the numpy array
-        2. Tokenizing the text to sequencs Using Tokennizer ()
-        3. Creating Word2Vec Embedding for embedding layer in Neural Network
-2. Working on Images:-
-    a. Converting images to array of RGB using ResNet50 pretrained model just by removing the last layer of the model.\
+   *     2. Tokenizing the text to sequencs Using Tokennizer ()
+   *     3. Creating Word2Vec Embedding for embedding layer in Neural Network
+#### 2. Working on Images:-
+    * a. Converting images to array of RGB using ResNet50 pretrained model just by removing the last layer of the model.\
 
-3. Deep Neural Network:- 
+### 3. Deep Neural Network:- 
   [![Screenshot-from-2022-02-07-12-32-54.png](https://i.postimg.cc/bJ171PwQ/Screenshot-from-2022-02-07-12-32-54.png)](https://postimg.cc/zbX219WB)
   
-  4. Output Predicted Results:-
+  ### 4. Output Predicted Results:-
         
      [![Screenshot-from-2022-02-07-12-40-53.png](https://i.postimg.cc/28gxNZwS/Screenshot-from-2022-02-07-12-40-53.png)](https://postimg.cc/kBFSxDz0)
