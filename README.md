@@ -10,13 +10,13 @@ Dataset which is used comprises of different scences and all natural images. The
 ### Model-Workflow:- 
 
 1. First Works with Natural language Processing on Captions:-
-*       1.    Text Preprocessing
-**              a.    Text cleaning
-*             b.    Removing Punctuation ('!"#$%&'()*+)
-*              c.    Removing stopwords
-*             d.    Lemmatize the words
-*              e.    Tokenize the words of each captions
-*             f.    pad the seqences and create the numpy array
+   *      1.    Text Preprocessing
+             * a.    Text cleaning
+             * b.    Removing Punctuation ('!"#$%&'()*+)
+             * c.    Removing stopwords
+             * d.    Lemmatize the words
+             * e.    Tokenize the words of each captions
+             * f.    pad the seqences and create the numpy array
         2. Tokenizing the text to sequencs Using Tokennizer ()
         3. Creating Word2Vec Embedding for embedding layer in Neural Network
 2. Working on Images:-
