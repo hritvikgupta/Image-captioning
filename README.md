@@ -20,5 +20,8 @@ Model-Workflow:-
     a. Converting images to array of RGB using ResNet50 pretrained model just by removing the last layer of the model.\
 
 3. Deep Neural Network:- 
+  [![Screenshot-from-2022-02-07-12-32-54.png](https://i.postimg.cc/bJ171PwQ/Screenshot-from-2022-02-07-12-32-54.png)](https://postimg.cc/zbX219WB)
   
-[![Screenshot-from-2022-02-07-12-32-54.png](https://i.postimg.cc/bJ171PwQ/Screenshot-from-2022-02-07-12-32-54.png)](https://postimg.cc/zbX219WB)
+  4. Output Predicted Results:-
+        
+     [![Screenshot-from-2022-02-07-12-40-53.png](https://i.postimg.cc/28gxNZwS/Screenshot-from-2022-02-07-12-40-53.png)](https://postimg.cc/kBFSxDz0)
