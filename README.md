@@ -27,4 +27,4 @@ Dataset which is used comprises of different scences and all natural images. The
   
   ### 4. Output Predicted Results:-
         
-     [![Screenshot-from-2022-02-07-12-40-53.png](https://i.postimg.cc/28gxNZwS/Screenshot-from-2022-02-07-12-40-53.png)](https://postimg.cc/kBFSxDz0)
+   [![Screenshot-from-2022-02-07-12-40-53.png](https://i.postimg.cc/28gxNZwS/Screenshot-from-2022-02-07-12-40-53.png)](https://postimg.cc/kBFSxDz0)
