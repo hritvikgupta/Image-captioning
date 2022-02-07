@@ -4,6 +4,8 @@ Image Captioning is one of those projcts that blends the Natural langauge Procss
 Dataset : 
 Dataset which is used comprises of different scences and all natural images. The captions in this dataset are around 40,000 which is 5 captions for each image. And all are natual spoken langauge regarding any scence or image. It was collected in 2015 to investigate multimodal learning schemes for unsupervised speech pattern discovery.
 
+Dataset from Kaggle datasets:-  https://www.kaggle.com/adityajn105/flickr8k/activity
+
 Model-Workflow:- 
 
 1. First Works with Natural language Processing on Captions:-
