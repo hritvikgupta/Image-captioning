@@ -21,5 +21,4 @@ Model-Workflow:-
 
 3. Deep Neural Network:- 
   
-        ![Screenshot from 2022-02-07 12-32-54](https://user-images.githubusercontent.com/60143996/152740924-d43aaee6-ff25-436b-ad28-58a1692a6b84.png)
-        
+[![Screenshot-from-2022-02-07-12-32-54.png](https://i.postimg.cc/bJ171PwQ/Screenshot-from-2022-02-07-12-32-54.png)](https://postimg.cc/zbX219WB)
